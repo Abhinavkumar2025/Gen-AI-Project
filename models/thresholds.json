@@ -1,0 +1,11 @@
+{
+    "calibration_dataset": "Normal Validation Set",
+    "sample_size": 1178,
+    "median_reconstruction_error": 0.0111,
+    "p75_reconstruction_error": 0.0197,
+    "medium_threshold": 0.0525,
+    "high_threshold": 0.142,
+    "medium_percentile": 95,
+    "high_percentile": 99,
+    "calibration_notes": "Thresholds derived from statistical percentiles on pure validation normal records. Reconstruction errors <= p95 are classified as Low Anomaly; between p95 and p99 as Medium Anomaly; > p99 as High Anomaly."
+}

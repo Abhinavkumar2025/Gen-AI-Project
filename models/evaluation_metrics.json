@@ -1,0 +1,17 @@
+{
+    "roc_auc": 0.9997,
+    "pr_auc": 0.9992,
+    "precision": 0.8803,
+    "recall": 1.0,
+    "f1_score": 0.9364,
+    "false_positive_rate": 0.0591,
+    "confusion_matrix": {
+        "true_negative": 1385,
+        "false_positive": 87,
+        "false_negative": 0,
+        "true_positive": 640
+    },
+    "sample_count": 2112,
+    "threshold_medium": 0.0525,
+    "threshold_high": 0.142
+}
